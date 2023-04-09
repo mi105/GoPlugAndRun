@@ -1,0 +1,3 @@
+0 dog_plugin.so ProcessDog
+1 cat_plugin.so ProcessCat
+2 goat_plugin.so ProcessGoat

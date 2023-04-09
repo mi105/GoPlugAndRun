@@ -1,0 +1,15 @@
+# GoLand IDE files
+.idea/
+
+# Compiled binary files
+/bin/
+/pkg/
+
+# Dependency directories
+/vendor/
+/go.sum
+/go.mod
+
+# OS-generated files
+.DS_Store
+Thumbs.db
